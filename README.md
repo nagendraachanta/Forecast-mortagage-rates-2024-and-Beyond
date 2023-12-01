@@ -3,6 +3,7 @@
  
  Please refer to requirements.txt file in the **code folder** for the list of all the code dependencies and softwares required.
  
+# Description of folder structure and code files 
 # ARIMA.ipynb
  This file includes code for the model built using ARIMA time series forecasting technique and includes all the plots explaining the model performance and model error estimates.
 
