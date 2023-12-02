@@ -9,5 +9,6 @@ For the Jupyter notebook code files to run, please use the following command to 
 
 **$ pip install -r requirements.txt**
  
-# Description of folder structure
+# Folder structure
 
+**-Code** Includes the code files created for our overall project
