@@ -9,12 +9,5 @@ For the Jupyter notebook code files to run, please use the following command to 
 
 **$ pip install -r requirements.txt**
  
-# Description of folder structure and code files 
-# ARIMA.ipynb
- This file includes code for the model built using ARIMA time series forecasting technique and includes all the plots explaining the model performance and model error estimates.
+# Description of folder structure
 
-# ANN.ipynb
-This file includes code for the Regression model built using Artifical Neural Network using multiple layers, which includes all the plots explaining the model performance and model error estimates.
-
-# DecisionTree_Regressor.ipynb
-This file includes code for the Regression model built using Decision tree models from scikit-learn library, which includes all the plots explaining the model performance and model error estimates.
