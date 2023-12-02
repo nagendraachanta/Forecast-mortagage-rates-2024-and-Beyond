@@ -18,3 +18,5 @@ For the Jupyter notebook code files to run, please use the following command to 
 **Final Report:** Place holder for our final project report.
 
 **Progress Report:** Place holder for our project progress report.
+
+**Project Proposal:** Place holder for our group's project proposal document.
