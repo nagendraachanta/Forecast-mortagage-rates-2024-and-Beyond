@@ -15,4 +15,6 @@ For the Jupyter notebook code files to run, please use the following command to 
 
 **Data:** Includes all the Data files used in our project, both raw and processed data.
 
-**Final Report:** Place holder for our final project report
+**Final Report:** Place holder for our final project report.
+
+**Progress Report:** Place holder for our project progress report.
