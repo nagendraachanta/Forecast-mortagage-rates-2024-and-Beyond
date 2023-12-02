@@ -13,5 +13,8 @@ This file includes code for the Regression model built using Decision tree model
 # Project_rfile.R
 This file includes the code for EDA analysis and plots for visualization.
 
-#Regression Analysis.R
+# Regression Analysis.R
 This file includes the code for our initial linear regression model using the original data.
+
+# data-analysis.R
+Code to analyze the feature interaction through correlation matrix.
