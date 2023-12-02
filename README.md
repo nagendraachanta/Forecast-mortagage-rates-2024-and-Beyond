@@ -11,4 +11,5 @@ For the Jupyter notebook code files to run, please use the following command to 
  
 # Folder structure
 
-**Code:** Includes the code files created for our overall project
+**Code:** Includes the code files created for our overall project.
+**Data:** Includes all the Data files used in our project, both raw and processed data.
