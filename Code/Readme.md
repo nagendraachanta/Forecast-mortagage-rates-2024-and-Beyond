@@ -22,7 +22,7 @@ This file includes the code for EDA analysis and plots for visualization.
 This file includes the code for our initial linear regression model using the original data.
 
 # data-analysis.R
-Code to analyze the feature interaction through correlation matrix.
+This file includes code to analyze the features interaction through correlation matrix.
 
 # requirements.txt
 This file contains the list of code dependencies and softwares needed to execute our code.
