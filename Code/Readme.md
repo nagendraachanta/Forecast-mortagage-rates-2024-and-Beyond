@@ -9,7 +9,6 @@ This file includes code for the Regression model built using Artifical Neural Ne
 # DecisionTree_Regressor.ipynb
 This file includes code for the Regression model built using Decision tree models from scikit-learn library, which includes all the plots explaining the model performance and model error estimates.
 
-
 # Project_rfile.R
 This file includes the code for EDA analysis and plots for visualization.
 
@@ -18,3 +17,6 @@ This file includes the code for our initial linear regression model using the or
 
 # data-analysis.R
 Code to analyze the feature interaction through correlation matrix.
+
+# requirements.txt
+This file contains the list of code dependencies and softwares needed to execute our code.
