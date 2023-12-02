@@ -5,7 +5,7 @@
  Please refer to requirements.txt file in the **code folder** for the list of all the code dependencies and softwares required.
  
 # Installation instructions
-For the Jupyter notebook code files to run, please use the following command to install from requirements.txt
+For the Jupyter notebook code files to run, please use the following command to install from requirements.txt (code folder)
 
 **$ pip install -r requirements.txt**
  
